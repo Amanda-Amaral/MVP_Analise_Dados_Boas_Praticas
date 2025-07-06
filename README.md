@@ -48,6 +48,7 @@ Jupyter Notebook
 📁 Estrutura do Projeto
 
 📦 projeto-covid19-mvp
+
 ├── README.md                       # Documentação do projeto
 
 ├── LICENSE  
@@ -55,9 +56,11 @@ Jupyter Notebook
 ├── requirements.txt               # Bibliotecas necessárias
 
 ├── data/
+
 │   └── COVID-19_Static.csv        # Base de dados utilizada
 
 ├── notebooks/
+
 │   └── analise_exploratoria_preprocessamento.ipynb  # Notebook principal
 
 

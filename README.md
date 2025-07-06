@@ -46,9 +46,6 @@ Google Colab
 Jupyter Notebook
 
 📁 Estrutura do Projeto
-kotlin
-Copiar
-Editar
 📦 projeto-covid19-mvp
 ├── README.md
 ├── data/
@@ -56,6 +53,7 @@ Editar
 ├── notebooks/
 │   └── analise_exploratoria_preprocessamento.ipynb
 └── requirements.txt
+
 
 👩‍💻 Autora
 Amanda Amaral

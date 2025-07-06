@@ -48,11 +48,9 @@ Jupyter Notebook
 📁 Estrutura do Projeto
 📦 projeto-covid19-mvp
 ├── README.md
-├── data/
-│   └── COVID-19_Static.csv
-├── notebooks/
-│   └── analise_exploratoria_preprocessamento.ipynb
-└── requirements.txt
+├── COVID-19_Static.csv
+├── Análise_de_Dados_e_Boas_Práticas_(40530010055_20250_01).ipynb
+├── requirements.txt
 
 
 👩‍💻 Autora

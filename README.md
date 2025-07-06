@@ -1,12 +1,12 @@
 # MVP_Analise_Dados_Boas_Praticas
 
-🦠 Análise Exploratória e Pré-processamento de Dados COVID-19
+🦠 ###Análise Exploratória e Pré-processamento de Dados COVID-19
 Este projeto é parte do MVP (Mínimo Produto Viável) da pós-graduação em Ciência de Dados, com foco em análise exploratória (EDA) e pré-processamento de dados relacionados à vulnerabilidade à COVID-19.
 
-📌 Objetivo
+📌 ###Objetivo
 Explorar e preparar um conjunto de dados estáticos sobre características populacionais, ambientais, demográficas e de saúde pública com o intuito de investigar hipóteses relacionadas ao risco de hospitalização por COVID-19.
 
-📊 Base de Dados
+📊 ###Base de Dados
 O dataset utilizado é o COVID-19 Unified Dataset (Static), disponibilizado pela Johns Hopkins University.
 Foram utilizadas variáveis como:
 
@@ -20,14 +20,14 @@ Indicadores populacionais
 
 Variável alvo: Risk_High (risco estimado de hospitalização por COVID-19)
 
-🔍 Hipóteses analisadas
+🔍 ###Hipóteses analisadas
 Qual doença pré-existente apresenta maior fator de risco estimado para hospitalização por COVID-19?
 
 A qualidade do ambiente e do clima urbano interfere na incidência de doença pulmonar crônica?
 
 O acesso a serviços de saúde impacta diretamente o risco estimado para hospitalização?
 
-🧪 Etapas Realizadas
+🧪 ###Etapas Realizadas
 Leitura e limpeza do dataset
 
 Tratamento de valores ausentes
@@ -38,21 +38,25 @@ Normalização dos dados com MinMaxScaler
 
 Seleção e interpretação de variáveis com base na correlação com a variável alvo
 
-🛠️ Ferramentas Utilizadas
+🛠️ ###Ferramentas Utilizadas
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
 Google Colab
 
 Jupyter Notebook
 
-📁 Estrutura do Projeto
+📁 ###Estrutura do Projeto
+
 📦 projeto-covid19-mvp
-├── README.md
-├── COVID-19_Static.csv
-├── Análise_de_Dados_e_Boas_Práticas_(40530010055_20250_01).ipynb
-├── requirements.txt
+├── README.md                       # Documentação do projeto
+├── LICENSE  
+├── requirements.txt               # Bibliotecas necessárias
+├── data/
+│   └── COVID-19_Static.csv        # Base de dados utilizada
+├── notebooks/
+│   └── analise_exploratoria_preprocessamento.ipynb  # Notebook principal
 
 
-👩‍💻 Autora
-Amanda Amaral
+👩‍💻 ###Autora
+*Amanda Amaral*
 Pós-graduanda em Ciência de Dados

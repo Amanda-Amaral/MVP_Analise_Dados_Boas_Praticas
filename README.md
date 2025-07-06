@@ -61,7 +61,7 @@ Jupyter Notebook
 
 ├── notebooks/
 
-│   └── analise_exploratoria_preprocessamento.ipynb  # Notebook principal
+│   └── Análise_de_Dados_e_Boas_Práticas_(40530010055_20250_01).ipynb  # Notebook principal
 
 
 👩‍💻 Autora

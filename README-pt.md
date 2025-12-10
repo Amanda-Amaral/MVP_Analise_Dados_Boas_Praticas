@@ -1,4 +1,4 @@
-# MVP_Analise_Dados_Boas_Praticas
+# Impactos diversos sobre Risco de internação por COVID-19 
 
 🦠 Análise Exploratória e Pré-processamento de Dados COVID-19
 Este projeto é parte do MVP (Mínimo Produto Viável) da pós-graduação em Ciência de Dados, com foco em análise exploratória (EDA) e pré-processamento de dados relacionados à vulnerabilidade à COVID-19.

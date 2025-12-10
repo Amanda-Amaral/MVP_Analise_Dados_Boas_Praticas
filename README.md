@@ -1,4 +1,4 @@
-Diverse Impacts on COVID-19 Hospitalization Risk
+# Diverse Impacts on COVID-19 Hospitalization Risk
 
 🦠 Exploratory Data Analysis and Preprocessing — COVID-19
 
